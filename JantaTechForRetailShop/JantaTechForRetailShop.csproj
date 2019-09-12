@@ -208,12 +208,26 @@
     <Compile Include="Migrations\201909111154070_CustomerDb.Designer.cs">
       <DependentUpon>201909111154070_CustomerDb.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201909120829319_remReqBarCode.cs" />
+    <Compile Include="Migrations\201909120829319_remReqBarCode.Designer.cs">
+      <DependentUpon>201909120829319_remReqBarCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909120952372_addingBilling.cs" />
+    <Compile Include="Migrations\201909120952372_addingBilling.Designer.cs">
+      <DependentUpon>201909120952372_addingBilling.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909120954312_addingSelling.cs" />
+    <Compile Include="Migrations\201909120954312_addingSelling.Designer.cs">
+      <DependentUpon>201909120954312_addingSelling.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Billing.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\Product.cs" />
+    <Compile Include="Models\SellingHistory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -307,6 +321,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201909111154070_CustomerDb.resx">
       <DependentUpon>201909111154070_CustomerDb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909120829319_remReqBarCode.resx">
+      <DependentUpon>201909120829319_remReqBarCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909120952372_addingBilling.resx">
+      <DependentUpon>201909120952372_addingBilling.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909120954312_addingSelling.resx">
+      <DependentUpon>201909120954312_addingSelling.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

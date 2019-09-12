@@ -49,8 +49,11 @@ namespace JantaTechForRetailShop.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,Category,BarCodeId,Colour,Price,Size,Quantity,Brand")] Product product)
+        public ActionResult Create(Product product)
         {
+            Random random = new Random();
+            long barCodeNo = random.Next(10000, 100000000);
+            product.BarCodeId= barCodeNo.ToString();
             if (ModelState.IsValid)
             {
                 db.Products.Add(product);
@@ -127,40 +130,40 @@ namespace JantaTechForRetailShop.Controllers
             base.Dispose(disposing);
         }
 
-        public ActionResult GenerateBarCode()
-        {
-            return View();
-        }
+        //public ActionResult GenerateBarCode()
+        //{
+        //    return View();
+        //}
 
-        [HttpPost]
-        public ActionResult GenerateBarCode(string barcode)
-        {
-            Random random = new Random();
-            long barCodeNo = random.Next(10000,100000000);
-            barcode = barCodeNo.ToString();
-            using (MemoryStream memoryStream = new MemoryStream())
-            {
-                using (Bitmap bitMap = new Bitmap(barcode.Length * 40, 80))
-                {
-                    using (Graphics graphics = Graphics.FromImage(bitMap))
-                    {
-                        Font oFont = new Font("IDAutomationHC39M", 16);
-                        PointF point = new PointF(2f, 2f);
-                        SolidBrush whiteBrush = new SolidBrush(Color.White);
-                        graphics.FillRectangle(whiteBrush, 0, 0, bitMap.Width, bitMap.Height);
-                        SolidBrush blackBrush = new SolidBrush(Color.Black);
-                        graphics.DrawString("*" + barcode + "*", oFont, blackBrush, point);
-                    }
+        //[HttpPost]
+        //public ActionResult GenerateBarCode(string barcode)
+        //{
+        //    Random random = new Random();
+        //    long barCodeNo = random.Next(10000,100000000);
+        //    barcode = barCodeNo.ToString();
+        //    using (MemoryStream memoryStream = new MemoryStream())
+        //    {
+        //        using (Bitmap bitMap = new Bitmap(barcode.Length * 40, 80))
+        //        {
+        //            using (Graphics graphics = Graphics.FromImage(bitMap))
+        //            {
+        //                Font oFont = new Font("IDAutomationHC39M", 16);
+        //                PointF point = new PointF(2f, 2f);
+        //                SolidBrush whiteBrush = new SolidBrush(Color.White);
+        //                graphics.FillRectangle(whiteBrush, 0, 0, bitMap.Width, bitMap.Height);
+        //                SolidBrush blackBrush = new SolidBrush(Color.Black);
+        //                graphics.DrawString("*" + barcode + "*", oFont, blackBrush, point);
+        //            }
 
-                    bitMap.Save(memoryStream, ImageFormat.Jpeg);
+        //            bitMap.Save(memoryStream, ImageFormat.Jpeg);
 
-                    ViewBag.BarcodeImage = "data:image/png;base64," + Convert.ToBase64String(memoryStream.ToArray());
-                    ViewBag.BarcodeString = barcode;
-                }
-            }
+        //            ViewBag.BarcodeImage = "data:image/png;base64," + Convert.ToBase64String(memoryStream.ToArray());
+        //            ViewBag.BarcodeString = barcode;
+        //        }
+        //    }
 
-            return View();
-        }
+        //    return View();
+        //}
 
         public ActionResult PrintBarCode(Product product)
         {

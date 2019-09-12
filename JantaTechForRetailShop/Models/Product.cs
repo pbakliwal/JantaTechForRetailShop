@@ -12,7 +12,6 @@ namespace JantaTechForRetailShop.Models
         [Required]
         public string Category { get; set; }
         [Display(Name ="Bar Code")]
-        [Required]
         public string BarCodeId { get; set; }
         [Required]
         public string Colour { get; set; }
