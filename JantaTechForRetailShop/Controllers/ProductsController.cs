@@ -7,9 +7,11 @@ using System.Drawing.Imaging;
 using System.IO;
 using System.Linq;
 using System.Net;
+using System.Net.Http;
 using System.Web;
 using System.Web.Mvc;
 using JantaTechForRetailShop.Models;
+using Mvc;
 
 namespace JantaTechForRetailShop.Controllers
 {
@@ -20,6 +22,8 @@ namespace JantaTechForRetailShop.Controllers
         // GET: Products
         public ActionResult Index()
         {
+            //HttpResponseMessage response = GlobalVariables.WebApiClient.GetAsync("ProductsApi").Result;
+            //return View(response.Content.ReadAsAsync<IEnumerable<Product>>().Result);
             return View(db.Products.ToList());
         }
 
