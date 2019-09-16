@@ -8,9 +8,11 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Text;
 using System.Web;
 using System.Web.Mvc;
 using JantaTechForRetailShop.Models;
+using JantaTechForRetailShop.VIewModels;
 using Mvc;
 
 namespace JantaTechForRetailShop.Controllers
@@ -195,6 +197,40 @@ namespace JantaTechForRetailShop.Controllers
 
             return View();
         }
+
+        public ActionResult BillGenerator()
+        {
+            return View();
+        }
+        
+        public ActionResult GenerateBill(TempProduct tempProduct)
+        {
+            string barcode = tempProduct.BarCodeId.ToString();
+            IEnumerable<Product> products = db.Products.ToList();
+            
+            foreach (var item in products)
+            {
+                if (item.BarCodeId.Equals(barcode))
+                {
+                    tempProduct.BarCodeId = item.BarCodeId;
+                    tempProduct.Brand = item.Brand;
+                    tempProduct.Category = item.Category;
+                    tempProduct.Colour = item.Colour;
+                    tempProduct.Price = item.Price;
+                    tempProduct.Quantity = item.Quantity;
+                    tempProduct.Size = item.Size;
+                }
+            }
+            db.TempProducts.Add(tempProduct);
+            db.SaveChanges();
+            AllClassViewModel viewModel = new AllClassViewModel
+            {
+                TempProducts = db.TempProducts.ToList()
+            };
+            ModelState.Clear();
+            return View(viewModel);
+        }
+
     }
-    
+
 }

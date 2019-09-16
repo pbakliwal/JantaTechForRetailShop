@@ -236,6 +236,26 @@
     <Compile Include="Migrations\201909131135312_updatedDb.Designer.cs">
       <DependentUpon>201909131135312_updatedDb.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201909140750102_requiredMig.cs" />
+    <Compile Include="Migrations\201909140750102_requiredMig.Designer.cs">
+      <DependentUpon>201909140750102_requiredMig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909140934136_requiredMigjhkj.cs" />
+    <Compile Include="Migrations\201909140934136_requiredMigjhkj.Designer.cs">
+      <DependentUpon>201909140934136_requiredMigjhkj.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909161255371_addingKey.cs" />
+    <Compile Include="Migrations\201909161255371_addingKey.Designer.cs">
+      <DependentUpon>201909161255371_addingKey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909161300375_deletingKey.cs" />
+    <Compile Include="Migrations\201909161300375_deletingKey.Designer.cs">
+      <DependentUpon>201909161300375_deletingKey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909161407095_addingTempTable.cs" />
+    <Compile Include="Migrations\201909161407095_addingTempTable.Designer.cs">
+      <DependentUpon>201909161407095_addingTempTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Billing.cs" />
@@ -244,12 +264,16 @@
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="Models\SellingHistory.cs" />
+    <Compile Include="Models\TempProduct.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
+    <Compile Include="VIewModels\AllClassViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Css\AdvanceMasteCss.css" />
+    <Content Include="Css\AdvanceMasterJs.js" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -263,6 +287,8 @@
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
@@ -311,6 +337,8 @@
     <Content Include="Views\Products\Index.cshtml" />
     <Content Include="Views\Products\GenerateBarCode.cshtml" />
     <Content Include="Views\Products\PrintBarCode.cshtml" />
+    <Content Include="Views\Products\BillGenerator.cshtml" />
+    <Content Include="Views\Products\GenerateBill.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -349,6 +377,21 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201909131135312_updatedDb.resx">
       <DependentUpon>201909131135312_updatedDb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909140750102_requiredMig.resx">
+      <DependentUpon>201909140750102_requiredMig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909140934136_requiredMigjhkj.resx">
+      <DependentUpon>201909140934136_requiredMigjhkj.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909161255371_addingKey.resx">
+      <DependentUpon>201909161255371_addingKey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909161300375_deletingKey.resx">
+      <DependentUpon>201909161300375_deletingKey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909161407095_addingTempTable.resx">
+      <DependentUpon>201909161407095_addingTempTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
