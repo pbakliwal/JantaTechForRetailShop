@@ -14,5 +14,6 @@ namespace JantaTechForRetailShop.Models
         [Required]
         public DateTime Date { get; set; }
         public bool IsPaid { get; set; }
+        public DateTime DueDate { get; set; }
     }
 }

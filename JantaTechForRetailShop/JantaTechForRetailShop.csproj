@@ -264,6 +264,10 @@
     <Compile Include="Migrations\201909170752427_QtyPurchased.Designer.cs">
       <DependentUpon>201909170752427_QtyPurchased.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201909171253254_DueDate.cs" />
+    <Compile Include="Migrations\201909171253254_DueDate.Designer.cs">
+      <DependentUpon>201909171253254_DueDate.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Billing.cs" />
@@ -292,6 +296,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\checkhide.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
@@ -406,6 +411,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201909170752427_QtyPurchased.resx">
       <DependentUpon>201909170752427_QtyPurchased.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909171253254_DueDate.resx">
+      <DependentUpon>201909171253254_DueDate.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -332,6 +332,11 @@ namespace JantaTechForRetailShop.Controllers
             return View("GenerateBill", viewModel);
         }
 
+        public ActionResult ConfirmBill()
+        {
+            return View();
+        }
+
     }
 
 }
