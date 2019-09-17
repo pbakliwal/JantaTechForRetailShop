@@ -207,28 +207,129 @@ namespace JantaTechForRetailShop.Controllers
         {
             string barcode = tempProduct.BarCodeId.ToString();
             IEnumerable<Product> products = db.Products.ToList();
-            
+            bool flag = false;
             foreach (var item in products)
             {
                 if (item.BarCodeId.Equals(barcode))
                 {
-                    tempProduct.BarCodeId = item.BarCodeId;
-                    tempProduct.Brand = item.Brand;
-                    tempProduct.Category = item.Category;
-                    tempProduct.Colour = item.Colour;
-                    tempProduct.Price = item.Price;
-                    tempProduct.Quantity = item.Quantity;
-                    tempProduct.Size = item.Size;
+                        flag = true;
+                        tempProduct.BarCodeId = item.BarCodeId;
+                        tempProduct.Brand = item.Brand;
+                        tempProduct.Category = item.Category;
+                        tempProduct.Colour = item.Colour;
+                        tempProduct.Price = item.Price;
+                        tempProduct.Quantity = item.Quantity;
+                        tempProduct.Size = item.Size;
+                        tempProduct.QtyPurchased = 0;
                 }
             }
-            db.TempProducts.Add(tempProduct);
-            db.SaveChanges();
+            if (flag)
+            {
+                bool fl = false;
+                foreach (var item in db.TempProducts.ToList())
+                {
+                    if (tempProduct.BarCodeId == item.BarCodeId)
+                    {
+
+                        item.QtyPurchased = item.QtyPurchased + 1;
+                        item.Quantity = item.Quantity - 1;
+                        db.Entry(item).State = EntityState.Modified;
+                        fl = true;
+                        if (item.Quantity >= 1)
+                        {
+                            db.SaveChanges();
+                        }
+                        else
+                        {
+                            ViewBag.Message = "Insufficient Quantity";
+                        }
+                        break;
+                    }
+                }
+                if (!fl)
+                {
+                    if (tempProduct.Quantity >= 1)
+                    {
+                        tempProduct.Quantity = tempProduct.Quantity - 1;
+                        tempProduct.QtyPurchased=tempProduct.QtyPurchased+1;
+                        db.TempProducts.Add(tempProduct);
+                        db.SaveChanges();
+                    }
+                    else
+                    {
+                        ViewBag.Message = "Insufficient Quantity";
+                    }
+                    
+                }
+                    
+
+            }
+            else
+            {
+                ViewBag.Message = "Incorrect Product";
+            }
             AllClassViewModel viewModel = new AllClassViewModel
             {
                 TempProducts = db.TempProducts.ToList()
             };
             ModelState.Clear();
             return View(viewModel);
+        }
+
+
+        public ActionResult RemoveTemp(int? id)
+        {
+            TempProduct temp = db.TempProducts.Find(id);
+            db.TempProducts.Remove(temp);
+            db.SaveChanges();
+            AllClassViewModel viewModel = new AllClassViewModel
+            {
+                TempProducts = db.TempProducts.ToList()
+            };
+            ModelState.Clear();
+            return View("GenerateBill",viewModel);
+        }
+
+        public ActionResult AddItem(int? id)
+        {
+            TempProduct temp = db.TempProducts.Find(id);
+            if (temp.Quantity>=1)
+            {
+                temp.QtyPurchased = temp.QtyPurchased + 1;
+                temp.Quantity = temp.Quantity - 1;
+                db.Entry(temp).State = EntityState.Modified;
+                db.SaveChanges();
+            }
+            else
+            {
+                ViewBag.Message = "Insufficient Quntity";
+            }
+            
+            AllClassViewModel viewModel = new AllClassViewModel
+            {
+                TempProducts = db.TempProducts.ToList()
+            };
+            ModelState.Clear();
+            return View("GenerateBill", viewModel);
+        }
+
+        public ActionResult RemItem(int? id)
+        {
+            TempProduct temp = db.TempProducts.Find(id);
+            temp.QtyPurchased = temp.QtyPurchased - 1;
+            temp.Quantity = temp.Quantity + 1;
+            if (temp.QtyPurchased <= 1)
+            {
+                temp.QtyPurchased = 1;
+            }
+            db.Entry(temp).State = EntityState.Modified;
+            db.SaveChanges();
+            AllClassViewModel viewModel = new AllClassViewModel
+            {
+                TempProducts = db.TempProducts.ToList()
+            };
+            ModelState.Clear();
+            return View("GenerateBill", viewModel);
         }
 
     }

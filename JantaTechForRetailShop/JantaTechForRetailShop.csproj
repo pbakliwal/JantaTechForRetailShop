@@ -256,6 +256,14 @@
     <Compile Include="Migrations\201909161407095_addingTempTable.Designer.cs">
       <DependentUpon>201909161407095_addingTempTable.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201909170631592_requiredBar.cs" />
+    <Compile Include="Migrations\201909170631592_requiredBar.Designer.cs">
+      <DependentUpon>201909170631592_requiredBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201909170752427_QtyPurchased.cs" />
+    <Compile Include="Migrations\201909170752427_QtyPurchased.Designer.cs">
+      <DependentUpon>201909170752427_QtyPurchased.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\Billing.cs" />
@@ -392,6 +400,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201909161407095_addingTempTable.resx">
       <DependentUpon>201909161407095_addingTempTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909170631592_requiredBar.resx">
+      <DependentUpon>201909170631592_requiredBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201909170752427_QtyPurchased.resx">
+      <DependentUpon>201909170752427_QtyPurchased.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
