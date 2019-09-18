@@ -12,8 +12,12 @@ namespace JantaTechForRetailShop.Models
         public Customer Customer { get; set; }
         public int CustomerId { get; set; }
         [Required]
+        [Display(Name = "Billing Date")]
         public DateTime Date { get; set; }
-        public bool IsPaid { get; set; }
+        [Required]
+        [Display(Name = "Amount Paid")]
+        public int AmountPaid { get; set; }
+        [Display(Name = "Due Date")]
         public DateTime DueDate { get; set; }
     }
 }

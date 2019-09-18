@@ -62,8 +62,9 @@
                         <td>@Html.ActionLink("Remove", "RemoveTemp", new { id = item.Id }, new { @class = "btn btn-danger", onclick = "return confirm('Are you sure');" })</td>
                     </tr>
 
-                    totSum = totSum + sum;
-                }
+                                    totSum = totSum + sum;
+                                    ViewBag.Value = totSum;
+                                }
             }
         </table>
         <p>Total=@totSum</p>

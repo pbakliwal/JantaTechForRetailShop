@@ -334,8 +334,97 @@ namespace JantaTechForRetailShop.Controllers
 
         public ActionResult ConfirmBill()
         {
+            int totalAmount=0;
+            foreach (var item in db.TempProducts.ToList())
+            {
+                totalAmount = totalAmount + (item.Price) * (item.QtyPurchased);
+            }
+            ViewBag.TotalAmount = totalAmount;
             return View();
         }
+
+        public ActionResult PrintBill(AllClassViewModel allClass)
+        {
+            bool flag = false;
+            int id =0;
+            foreach (var item in db.Customers.ToList())
+            {
+                if (allClass.Customer.PhoneNo.Equals(item.PhoneNo))
+                {
+                    flag = true;
+                    id = item.Id;
+                    break;
+                }
+            }
+
+            if (!flag)
+            {
+                Customer customer = new Customer()
+                {
+                    Address = allClass.Customer.Address,
+                    Name = allClass.Customer.Name,
+                    PhoneNo = allClass.Customer.PhoneNo
+                };
+                db.Customers.Add(customer);
+                db.SaveChanges();
+                foreach (var item in db.Customers.ToList())
+                {
+                    if (item.PhoneNo == allClass.Customer.PhoneNo)
+                    {
+                        id = item.Id;
+                        break;
+                    }
+                }
+            }
+
+            Billing bill = new Billing()
+            {
+                CustomerId = id,
+                AmountPaid = allClass.Billing.AmountPaid,
+                Date = allClass.Billing.Date,
+                DueDate = allClass.Billing.DueDate,
+            };
+            db.Billings.Add(bill);
+            db.SaveChanges();
+            Billing lastBill = db.Billings.Last();
+            int lastId = lastBill.Id;
+            SellingHistory history = null;
+            foreach (var item in db.TempProducts.ToList())
+            {
+                history.BillingId = lastId;
+                history.ProductId = item.Id;
+                history.Quantity = item.QtyPurchased;
+                db.SellingHistories.Add(history);
+                db.SaveChanges();
+            }
+
+            foreach (var item in db.TempProducts.ToList())
+            {
+                foreach (var item1 in db.Products.ToList())
+                {
+                    if (item1.BarCodeId == item.BarCodeId)
+                    {
+                        item1.Quantity = item1.Quantity - item.QtyPurchased;
+                        db.Entry(item1).State = EntityState.Modified;
+                        db.SaveChanges();
+                    }
+                }
+            }
+
+            foreach (var item in db.TempProducts.ToList())
+            {
+                db.TempProducts.Remove(item);
+                db.SaveChanges();
+            }
+
+            return RedirectToAction("FinalBillPrint", lastId);
+        }
+
+        public ActionResult FinalBillPrint()
+        {
+            return View();
+        }
+
 
     }
 
