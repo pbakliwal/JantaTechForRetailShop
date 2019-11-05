@@ -1,0 +1,1171 @@
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\ApplicationInsights.config
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.dll.config
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.pdb
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.exe
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.exe.config
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.rsp
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.exe
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.exe.config
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.rsp
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.AppContext.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Collections.Immutable.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Console.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.Compression.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.Pipes.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.AccessControl.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Claims.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Threading.Thread.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.ValueTuple.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XPath.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.exe
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.exe.config
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.rsp
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\VBCSCompiler.exe
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\VBCSCompiler.exe.config
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Antlr3.Runtime.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.SqlServer.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.DependencyCollector.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Web.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.WindowsServer.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.ApplicationInsights.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Facebook.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Google.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.OAuth.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Twitter.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Web.Infrastructure.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Newtonsoft.Json.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Owin.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Helpers.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Mvc.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Optimization.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Razor.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Deployment.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Razor.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\WebGrease.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Helpers.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Mvc.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Optimization.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Razor.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Deployment.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Razor.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Antlr3.Runtime.pdb
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Newtonsoft.Json.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.SqlServer.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Facebook.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.OAuth.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Google.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Twitter.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.ApplicationInsights.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.DependencyCollector.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.WindowsServer.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Web.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csprojResolveAssemblyReference.cache
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.CoreCompileInputs.cache
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.CopyComplete
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.pdb
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.prodcutTableAdded.resources
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.GenerateResource.cache
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\ApplicationInsights.config
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.dll.config
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.pdb
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.exe
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.exe.config
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.rsp
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.exe
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.exe.config
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.rsp
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.AppContext.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Collections.Immutable.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Console.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.Compression.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.Pipes.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.AccessControl.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Claims.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Threading.Thread.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.ValueTuple.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XPath.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.exe
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.exe.config
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.rsp
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\VBCSCompiler.exe
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\VBCSCompiler.exe.config
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Antlr3.Runtime.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.SqlServer.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.DependencyCollector.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Web.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.WindowsServer.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.ApplicationInsights.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Facebook.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Google.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.OAuth.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Twitter.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Web.Infrastructure.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Newtonsoft.Json.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Owin.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Helpers.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Mvc.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Optimization.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Razor.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Deployment.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Razor.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\WebGrease.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Helpers.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Mvc.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Optimization.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Razor.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Deployment.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Razor.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Antlr3.Runtime.pdb
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Newtonsoft.Json.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.SqlServer.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Facebook.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.OAuth.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Google.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Twitter.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.ApplicationInsights.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.DependencyCollector.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.WindowsServer.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Web.xml
+D:\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csprojResolveAssemblyReference.cache
+D:\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.prodcutTableAdded.resources
+D:\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.GenerateResource.cache
+D:\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.CoreCompileInputs.cache
+D:\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.CopyComplete
+D:\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.dll
+D:\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.pdb
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.RequiredM.resources
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.CustomerDb.resources
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.remReqBarCode.resources
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingBilling.resources
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingSelling.resources
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Net.Http.Formatting.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.WebHost.dll
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Net.Http.Formatting.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.WebHost.xml
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.updatedDb.resources
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredMig.resources
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredMigjhkj.resources
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingKey.resources
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.deletingKey.resources
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingTempTable.resources
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredBar.resources
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.QtyPurchased.resources
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.DueDate.resources
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.udhar.resources
+D:\JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addressAddition.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\ApplicationInsights.config
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.dll.config
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.pdb
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.exe
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.exe.config
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.rsp
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.exe
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.exe.config
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.rsp
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.AppContext.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Collections.Immutable.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Console.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.Process.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.Compression.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.Pipes.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.AccessControl.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Claims.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Principal.Windows.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Threading.Thread.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.ValueTuple.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XPath.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.exe
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.exe.config
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.rsp
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\VBCSCompiler.exe
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\VBCSCompiler.exe.config
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Antlr3.Runtime.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.SqlServer.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Agent.Intercept.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.DependencyCollector.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Web.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.WindowsServer.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.ApplicationInsights.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Facebook.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Google.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Twitter.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Web.Infrastructure.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Newtonsoft.Json.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Owin.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Net.Http.Formatting.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Helpers.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.WebHost.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Mvc.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Optimization.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Razor.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Deployment.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Razor.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\WebGrease.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Net.Http.Formatting.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.WebHost.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Helpers.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Mvc.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Optimization.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Razor.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Deployment.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Razor.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Antlr3.Runtime.pdb
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Newtonsoft.Json.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.SqlServer.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Facebook.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Google.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Twitter.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.ApplicationInsights.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.DependencyCollector.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.WindowsServer.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Web.xml
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csprojAssemblyReference.cache
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.prodcutTableAdded.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.RequiredM.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.CustomerDb.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.remReqBarCode.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingBilling.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingSelling.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.updatedDb.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredMig.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredMigjhkj.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingKey.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.deletingKey.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingTempTable.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredBar.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.QtyPurchased.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.DueDate.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.udhar.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addressAddition.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.GenerateResource.cache
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.CoreCompileInputs.cache
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.CopyComplete
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.dll
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.pdb
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.Aajkakharch.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.daa.resources
+E:\JantaTechForRetail\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.ekaurmig.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\ApplicationInsights.config
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.dll.config
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.pdb
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.exe
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.exe.config
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.rsp
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.exe
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.exe.config
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.rsp
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.AppContext.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Collections.Immutable.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Console.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.Compression.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.Pipes.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.AccessControl.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Claims.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Threading.Thread.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.ValueTuple.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XPath.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.exe
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.exe.config
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.rsp
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\VBCSCompiler.exe
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\VBCSCompiler.exe.config
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Antlr3.Runtime.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.SqlServer.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.DependencyCollector.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Web.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.WindowsServer.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.ApplicationInsights.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Facebook.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Google.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.OAuth.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Twitter.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Web.Infrastructure.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Newtonsoft.Json.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Owin.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Net.Http.Formatting.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Helpers.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.WebHost.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Mvc.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Optimization.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Razor.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Deployment.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Razor.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\WebGrease.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Net.Http.Formatting.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.WebHost.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Helpers.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Mvc.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Optimization.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Razor.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Deployment.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Razor.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Antlr3.Runtime.pdb
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Newtonsoft.Json.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.SqlServer.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Facebook.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.OAuth.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Google.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Twitter.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.ApplicationInsights.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.DependencyCollector.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.WindowsServer.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Web.xml
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csprojResolveAssemblyReference.cache
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.prodcutTableAdded.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.RequiredM.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.CustomerDb.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.remReqBarCode.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingBilling.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingSelling.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.updatedDb.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredMig.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredMigjhkj.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingKey.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.deletingKey.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingTempTable.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredBar.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.QtyPurchased.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.DueDate.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.udhar.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addressAddition.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.Aajkakharch.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.daa.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.ekaurmig.resources
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.GenerateResource.cache
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.CoreCompileInputs.cache
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.CopyComplete
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.dll
+D:\25.09.19JantaTech\19.09.19 Janta Tech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.pdb
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\ApplicationInsights.config
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.dll.config
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.pdb
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.exe
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.exe.config
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.rsp
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.exe
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.exe.config
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.rsp
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.AppContext.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Collections.Immutable.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Console.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.Compression.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.Pipes.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.AccessControl.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Claims.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Threading.Thread.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.ValueTuple.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XPath.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.exe
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.exe.config
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.rsp
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\VBCSCompiler.exe
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\VBCSCompiler.exe.config
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Antlr3.Runtime.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.SqlServer.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.DependencyCollector.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Web.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.WindowsServer.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.ApplicationInsights.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Facebook.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Google.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.OAuth.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Twitter.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Web.Infrastructure.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Newtonsoft.Json.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Owin.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Net.Http.Formatting.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Helpers.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.WebHost.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Mvc.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Optimization.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Razor.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Deployment.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Razor.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\WebGrease.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Net.Http.Formatting.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.WebHost.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Helpers.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Mvc.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Optimization.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Razor.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Deployment.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Razor.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Antlr3.Runtime.pdb
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Newtonsoft.Json.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.SqlServer.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Facebook.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.OAuth.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Google.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Twitter.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.ApplicationInsights.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.DependencyCollector.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.WindowsServer.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Web.xml
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csprojResolveAssemblyReference.cache
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.prodcutTableAdded.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.RequiredM.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.CustomerDb.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.remReqBarCode.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingBilling.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingSelling.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.updatedDb.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredMig.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredMigjhkj.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingKey.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.deletingKey.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingTempTable.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredBar.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.QtyPurchased.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.DueDate.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.udhar.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addressAddition.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.Aajkakharch.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.daa.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.ekaurmig.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.GenerateResource.cache
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.CoreCompileInputs.cache
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.CopyComplete
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.dll
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.pdb
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.amountdue.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.amountdueincustomer.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.fuckedup.resources
+D:\new 25.09.2019 JantaTech\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.patanhikyahorhah.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\ApplicationInsights.config
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.dll.config
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.pdb
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.exe
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.exe.config
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.rsp
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.exe
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.exe.config
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.rsp
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.AppContext.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Collections.Immutable.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Console.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.Process.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.Compression.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.Pipes.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.AccessControl.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Claims.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Principal.Windows.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Threading.Thread.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.ValueTuple.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XPath.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.exe
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.exe.config
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.rsp
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\VBCSCompiler.exe
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\VBCSCompiler.exe.config
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Antlr3.Runtime.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.SqlServer.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Agent.Intercept.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.DependencyCollector.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Web.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.WindowsServer.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.ApplicationInsights.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Facebook.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Google.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Twitter.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Web.Infrastructure.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Newtonsoft.Json.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Owin.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Net.Http.Formatting.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Helpers.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.WebHost.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Mvc.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Optimization.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Razor.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Deployment.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Razor.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\WebGrease.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Net.Http.Formatting.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.WebHost.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Helpers.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Mvc.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Optimization.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Razor.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Deployment.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Razor.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Antlr3.Runtime.pdb
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Newtonsoft.Json.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.SqlServer.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Facebook.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Google.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Twitter.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.ApplicationInsights.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.DependencyCollector.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.WindowsServer.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Web.xml
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csprojAssemblyReference.cache
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.prodcutTableAdded.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.RequiredM.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.CustomerDb.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.remReqBarCode.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingBilling.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingSelling.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.updatedDb.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredMig.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredMigjhkj.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingKey.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.deletingKey.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingTempTable.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredBar.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.QtyPurchased.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.DueDate.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.udhar.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addressAddition.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.Aajkakharch.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.daa.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.ekaurmig.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.amountdue.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.amountdueincustomer.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.fuckedup.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.patanhikyahorhah.resources
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.GenerateResource.cache
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.CoreCompileInputs.cache
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.CopyComplete
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.pdb
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\PagedList.dll
+E:\JantaTechForRetailShop Sprint2\JantaTechForRetailShop\JantaTechForRetailShop\bin\PagedList.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\ApplicationInsights.config
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.dll.config
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.pdb
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.exe
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.exe.config
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.rsp
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.exe
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.exe.config
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.rsp
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.AppContext.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Console.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.Process.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.Compression.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.Pipes.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.AccessControl.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Claims.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Threading.Thread.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.ValueTuple.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XPath.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.exe
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.exe.config
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.rsp
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\VBCSCompiler.exe
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Antlr3.Runtime.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.SqlServer.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.DependencyCollector.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Web.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.WindowsServer.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.ApplicationInsights.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Google.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Newtonsoft.Json.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Owin.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\PagedList.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Net.Http.Formatting.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Helpers.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.WebHost.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Mvc.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Optimization.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Razor.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Deployment.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Razor.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\WebGrease.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\PagedList.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Net.Http.Formatting.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.WebHost.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Helpers.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Mvc.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Optimization.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Razor.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Deployment.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Razor.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Antlr3.Runtime.pdb
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Newtonsoft.Json.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.SqlServer.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Google.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.ApplicationInsights.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.DependencyCollector.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.WindowsServer.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Web.xml
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csprojAssemblyReference.cache
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.prodcutTableAdded.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.RequiredM.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.CustomerDb.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.remReqBarCode.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingBilling.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingSelling.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.updatedDb.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredMig.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredMigjhkj.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingKey.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.deletingKey.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingTempTable.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredBar.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.QtyPurchased.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.DueDate.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.udhar.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addressAddition.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.Aajkakharch.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.daa.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.ekaurmig.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.amountdue.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.amountdueincustomer.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.fuckedup.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.patanhikyahorhah.resources
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.GenerateResource.cache
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.CopyComplete
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.dll
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.pdb
+D:\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.details.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\ApplicationInsights.config
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.dll.config
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\JantaTechForRetailShop.pdb
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.exe
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.exe.config
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csc.rsp
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.exe
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.exe.config
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\csi.rsp
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.AppContext.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Collections.Immutable.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Console.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.Process.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.Compression.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.IO.Pipes.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.AccessControl.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Claims.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Security.Principal.Windows.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Threading.Thread.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.ValueTuple.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XPath.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.exe
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.exe.config
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\vbc.rsp
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\VBCSCompiler.exe
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\roslyn\VBCSCompiler.exe.config
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Antlr3.Runtime.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.SqlServer.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Agent.Intercept.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.DependencyCollector.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Web.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.WindowsServer.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.ApplicationInsights.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Core.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Cookies.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Facebook.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Google.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.OAuth.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Twitter.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Web.Infrastructure.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Newtonsoft.Json.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Owin.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\PagedList.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Net.Http.Formatting.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Helpers.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.WebHost.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Mvc.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Optimization.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Razor.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Deployment.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Razor.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\WebGrease.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\PagedList.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Net.Http.Formatting.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Http.WebHost.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Helpers.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Mvc.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Optimization.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.Razor.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Deployment.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\System.Web.WebPages.Razor.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Antlr3.Runtime.pdb
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Newtonsoft.Json.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\EntityFramework.SqlServer.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Core.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Facebook.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Cookies.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.OAuth.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Google.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.Twitter.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.ApplicationInsights.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.DependencyCollector.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.WindowsServer.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\bin\Microsoft.AI.Web.xml
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csprojAssemblyReference.cache
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.prodcutTableAdded.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.RequiredM.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.CustomerDb.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.remReqBarCode.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingBilling.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingSelling.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.updatedDb.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredMig.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredMigjhkj.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingKey.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.deletingKey.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addingTempTable.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.requiredBar.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.QtyPurchased.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.DueDate.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.udhar.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.addressAddition.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.Aajkakharch.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.daa.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.ekaurmig.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.amountdue.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.amountdueincustomer.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.fuckedup.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.patanhikyahorhah.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.Migrations.details.resources
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.GenerateResource.cache
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.CoreCompileInputs.cache
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.csproj.CopyComplete
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.dll
+E:\AkhriKhel\Sprint 5 Janta Reatail\JantaTechForRetailShop\JantaTechForRetailShop\obj\Debug\JantaTechForRetailShop.pdb

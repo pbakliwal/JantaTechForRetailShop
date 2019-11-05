@@ -16,7 +16,11 @@ namespace JantaTechForRetailShop.Models
         [Required]
         public string Colour { get; set; }
         [Required]
+        [Display(Name = "Selling Price")]
         public int Price { get; set; }
+        [Required]
+        [Display(Name = "Cost Price")]
+        public int CostPrice { get; set; }
         [Required]
         public string Size { get; set; }
         [Required]

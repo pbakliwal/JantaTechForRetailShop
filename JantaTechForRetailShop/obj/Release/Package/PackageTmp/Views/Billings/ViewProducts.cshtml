@@ -1,0 +1,38 @@
+﻿@model JantaTechForRetailShop.VIewModels.AllClassViewModel
+@{
+    ViewBag.Title = "ViewProducts";
+}
+    <table class="table">
+        <tr>
+            <th>Item Name</th>
+            <th>Brand</th>
+            <th>Price</th>
+            <th>Size</th>
+            <th>Colour</th>
+            <th>Quantity</th>
+        </tr>
+        @foreach (var item in Model.SellingHistories)
+        {
+            <tr>
+                <td>
+                    @item.Product.Category
+                </td>
+                <td>
+                    @item.Product.Brand
+                </td>
+                <td>
+                    @item.Product.Price
+                </td>
+                <td>
+                    @item.Product.Size
+                </td>
+                <td>
+                    @item.Product.Colour
+                </td>
+                <td>
+                    @item.Quantity
+                </td>
+            </tr>
+        }
+
+</table>

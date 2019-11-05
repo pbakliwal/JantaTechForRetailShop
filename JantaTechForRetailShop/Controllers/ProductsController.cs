@@ -4,11 +4,13 @@ using System.Data;
 using System.Data.Entity;
 using System.Drawing;
 using System.Drawing.Imaging;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Text;
+using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 using JantaTechForRetailShop.Models;
@@ -22,21 +24,19 @@ namespace JantaTechForRetailShop.Controllers
         private ApplicationDbContext db = new ApplicationDbContext();
 
         // GET: Products
-        public ActionResult Index()
+        public async Task<ActionResult> Index()
         {
-            //HttpResponseMessage response = GlobalVariables.WebApiClient.GetAsync("ProductsApi").Result;
-            //return View(response.Content.ReadAsAsync<IEnumerable<Product>>().Result);
-            return View(db.Products.ToList());
+            return View(await db.Products.ToListAsync());
         }
 
         // GET: Products/Details/5
-        public ActionResult Details(int? id)
+        public async Task<ActionResult> Details(int? id)
         {
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Product product = db.Products.Find(id);
+            Product product = await db.Products.FindAsync(id);
             if (product == null)
             {
                 return HttpNotFound();
@@ -55,29 +55,53 @@ namespace JantaTechForRetailShop.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(Product product)
+        public async Task<ActionResult> Create(Product product)
         {
+            bool flag = false;
             Random random = new Random();
             long barCodeNo = random.Next(10000, 100000000);
-            product.BarCodeId= barCodeNo.ToString();
-            if (ModelState.IsValid)
+            foreach (var item in db.Products.ToList())
             {
-                db.Products.Add(product);
-                db.SaveChanges();
-                return RedirectToAction("Index");
+                if(item.BarCodeId== barCodeNo.ToString())
+                {
+                    flag = true;
+                    break;
+                }
+            }
+            if(flag==false)
+            {
+                product.BarCodeId = barCodeNo.ToString();
+                if (ModelState.IsValid)
+                {
+                    db.Products.Add(product);
+                    await db.SaveChangesAsync();
+                    return RedirectToAction("Index");
+                }
+            }
+            else
+            {
+                random = new Random();
+                 barCodeNo = random.Next(10000, 100000000);
+                product.BarCodeId = barCodeNo.ToString();
+                if (ModelState.IsValid)
+                {
+                    db.Products.Add(product);
+                    await db.SaveChangesAsync();
+                    return RedirectToAction("Index");
+                }
             }
 
             return View(product);
         }
 
         // GET: Products/Edit/5
-        public ActionResult Edit(int? id)
+        public async Task<ActionResult> Edit(int? id)
         {
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Product product = db.Products.Find(id);
+            Product product = await db.Products.FindAsync(id);
             if (product == null)
             {
                 return HttpNotFound();
@@ -90,25 +114,25 @@ namespace JantaTechForRetailShop.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "Id,Category,BarCodeId,Colour,Price,Size,Quantity,Brand")] Product product)
+        public async Task<ActionResult> Edit([Bind(Include = "Id,Category,BarCodeId,Colour,Price,CostPrice,Size,Quantity,Brand")] Product product)
         {
             if (ModelState.IsValid)
             {
                 db.Entry(product).State = EntityState.Modified;
-                db.SaveChanges();
+                await db.SaveChangesAsync();
                 return RedirectToAction("Index");
             }
             return View(product);
         }
 
         // GET: Products/Delete/5
-        public ActionResult Delete(int? id)
+        public async Task<ActionResult> Delete(int? id)
         {
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Product product = db.Products.Find(id);
+            Product product = await db.Products.FindAsync(id);
             if (product == null)
             {
                 return HttpNotFound();
@@ -119,11 +143,11 @@ namespace JantaTechForRetailShop.Controllers
         // POST: Products/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public ActionResult DeleteConfirmed(int id)
+        public async Task<ActionResult> DeleteConfirmed(int id)
         {
-            Product product = db.Products.Find(id);
+            Product product = await db.Products.FindAsync(id);
             db.Products.Remove(product);
-            db.SaveChanges();
+            await db.SaveChangesAsync();
             return RedirectToAction("Index");
         }
 
@@ -135,66 +159,34 @@ namespace JantaTechForRetailShop.Controllers
             }
             base.Dispose(disposing);
         }
-
-        //public ActionResult GenerateBarCode()
-        //{
-        //    return View();
-        //}
-
-        //[HttpPost]
-        //public ActionResult GenerateBarCode(string barcode)
-        //{
-        //    Random random = new Random();
-        //    long barCodeNo = random.Next(10000,100000000);
-        //    barcode = barCodeNo.ToString();
-        //    using (MemoryStream memoryStream = new MemoryStream())
-        //    {
-        //        using (Bitmap bitMap = new Bitmap(barcode.Length * 40, 80))
-        //        {
-        //            using (Graphics graphics = Graphics.FromImage(bitMap))
-        //            {
-        //                Font oFont = new Font("IDAutomationHC39M", 16);
-        //                PointF point = new PointF(2f, 2f);
-        //                SolidBrush whiteBrush = new SolidBrush(Color.White);
-        //                graphics.FillRectangle(whiteBrush, 0, 0, bitMap.Width, bitMap.Height);
-        //                SolidBrush blackBrush = new SolidBrush(Color.Black);
-        //                graphics.DrawString("*" + barcode + "*", oFont, blackBrush, point);
-        //            }
-
-        //            bitMap.Save(memoryStream, ImageFormat.Jpeg);
-
-        //            ViewBag.BarcodeImage = "data:image/png;base64," + Convert.ToBase64String(memoryStream.ToArray());
-        //            ViewBag.BarcodeString = barcode;
-        //        }
-        //    }
-
-        //    return View();
-        //}
-
         public ActionResult PrintBarCode(Product product)
         {
             string barcode = product.BarCodeId;
             using (MemoryStream memoryStream = new MemoryStream())
             {
-                using (Bitmap bitMap = new Bitmap(barcode.Length * 30, 80))
+                using (Bitmap bitMap = new Bitmap(barcode.Length * 40, 100))
                 {
                     using (Graphics graphics = Graphics.FromImage(bitMap))
                     {
                         Font oFont = new Font("IDAutomationHC39M", 16);
+                        Font bFont = new Font(FontFamily.GenericSerif, 8);
                         PointF point = new PointF(2f, 2f);
+                        //PointF point3 = new PointF(45f, 0.5f);
+                        PointF point2 = new PointF(56f, 76f);
                         SolidBrush whiteBrush = new SolidBrush(Color.White);
                         graphics.FillRectangle(whiteBrush, 0, 0, bitMap.Width, bitMap.Height);
                         SolidBrush blackBrush = new SolidBrush(Color.Black);
+                        //graphics.DrawString("V Men's Wear", bFont, blackBrush, point3);
                         graphics.DrawString("*" + barcode + "*", oFont, blackBrush, point);
+                        graphics.DrawString("VMen's Wear Price:   " + product.Price.ToString(), bFont, blackBrush, point2);
+
                     }
 
                     bitMap.Save(memoryStream, ImageFormat.Jpeg);
 
                     ViewBag.BarcodeImage = "data:image/png;base64," + Convert.ToBase64String(memoryStream.ToArray());
-                    //ViewBag.BarcodeString = barcode;
                 }
             }
-
             return View();
         }
 
@@ -202,7 +194,7 @@ namespace JantaTechForRetailShop.Controllers
         {
             return View();
         }
-        
+
         public ActionResult GenerateBill(TempProduct tempProduct)
         {
             string barcode = tempProduct.BarCodeId.ToString();
@@ -212,15 +204,15 @@ namespace JantaTechForRetailShop.Controllers
             {
                 if (item.BarCodeId.Equals(barcode))
                 {
-                        flag = true;
-                        tempProduct.BarCodeId = item.BarCodeId;
-                        tempProduct.Brand = item.Brand;
-                        tempProduct.Category = item.Category;
-                        tempProduct.Colour = item.Colour;
-                        tempProduct.Price = item.Price;
-                        tempProduct.Quantity = item.Quantity;
-                        tempProduct.Size = item.Size;
-                        tempProduct.QtyPurchased = 0;
+                    flag = true;
+                    tempProduct.BarCodeId = item.BarCodeId;
+                    tempProduct.Brand = item.Brand;
+                    tempProduct.Category = item.Category;
+                    tempProduct.Colour = item.Colour;
+                    tempProduct.Price = item.Price;
+                    tempProduct.Quantity = item.Quantity;
+                    tempProduct.Size = item.Size;
+                    tempProduct.QtyPurchased = 0;
                 }
             }
             if (flag)
@@ -251,7 +243,7 @@ namespace JantaTechForRetailShop.Controllers
                     if (tempProduct.Quantity >= 1)
                     {
                         tempProduct.Quantity = tempProduct.Quantity - 1;
-                        tempProduct.QtyPurchased=tempProduct.QtyPurchased+1;
+                        tempProduct.QtyPurchased = tempProduct.QtyPurchased + 1;
                         db.TempProducts.Add(tempProduct);
                         db.SaveChanges();
                     }
@@ -259,9 +251,9 @@ namespace JantaTechForRetailShop.Controllers
                     {
                         ViewBag.Message = "Insufficient Quantity";
                     }
-                    
+
                 }
-                    
+
 
             }
             else
@@ -287,13 +279,13 @@ namespace JantaTechForRetailShop.Controllers
                 TempProducts = db.TempProducts.ToList()
             };
             ModelState.Clear();
-            return View("GenerateBill",viewModel);
+            return View("GenerateBill", viewModel);
         }
 
         public ActionResult AddItem(int? id)
         {
             TempProduct temp = db.TempProducts.Find(id);
-            if (temp.Quantity>=1)
+            if (temp.Quantity >= 1)
             {
                 temp.QtyPurchased = temp.QtyPurchased + 1;
                 temp.Quantity = temp.Quantity - 1;
@@ -304,7 +296,7 @@ namespace JantaTechForRetailShop.Controllers
             {
                 ViewBag.Message = "Insufficient Quntity";
             }
-            
+
             AllClassViewModel viewModel = new AllClassViewModel
             {
                 TempProducts = db.TempProducts.ToList()
@@ -334,7 +326,7 @@ namespace JantaTechForRetailShop.Controllers
 
         public ActionResult ConfirmBill()
         {
-            int totalAmount=0;
+            int totalAmount = 0;
             foreach (var item in db.TempProducts.ToList())
             {
                 totalAmount = totalAmount + (item.Price) * (item.QtyPurchased);
@@ -345,8 +337,9 @@ namespace JantaTechForRetailShop.Controllers
 
         public ActionResult PrintBill(AllClassViewModel allClass)
         {
+           
             bool flag = false;
-            int id =0;
+            int id = 0;
             foreach (var item in db.Customers.ToList())
             {
                 if (allClass.Customer.PhoneNo.Equals(item.PhoneNo))
@@ -377,26 +370,28 @@ namespace JantaTechForRetailShop.Controllers
                 }
             }
 
+            int totalAmount = 0;
+            foreach (var item in db.TempProducts.ToList())
+            {
+                totalAmount = totalAmount + (item.Price) * (item.QtyPurchased);
+            }
+
             Billing bill = new Billing()
             {
                 CustomerId = id,
                 AmountPaid = allClass.Billing.AmountPaid,
                 Date = allClass.Billing.Date,
                 DueDate = allClass.Billing.DueDate,
+                AmountDue=totalAmount- allClass.Billing.AmountPaid
+                //enter amount due here
             };
             db.Billings.Add(bill);
             db.SaveChanges();
-            Billing lastBill = db.Billings.Last();
-            int lastId = lastBill.Id;
-            SellingHistory history = null;
-            foreach (var item in db.TempProducts.ToList())
-            {
-                history.BillingId = lastId;
-                history.ProductId = item.Id;
-                history.Quantity = item.QtyPurchased;
-                db.SellingHistories.Add(history);
-                db.SaveChanges();
-            }
+            var lastbills = db.Billings.ToList();
+            Billing lastbill = lastbills.Last();
+            int lastId = lastbill.Id;
+
+            SellingHistory history = new SellingHistory() { };
 
             foreach (var item in db.TempProducts.ToList())
             {
@@ -404,6 +399,10 @@ namespace JantaTechForRetailShop.Controllers
                 {
                     if (item1.BarCodeId == item.BarCodeId)
                     {
+                        history.BillingId = lastId;
+                        history.ProductId = item1.Id;
+                        history.Quantity = item.QtyPurchased;
+                        db.SellingHistories.Add(history);
                         item1.Quantity = item1.Quantity - item.QtyPurchased;
                         db.Entry(item1).State = EntityState.Modified;
                         db.SaveChanges();
@@ -417,15 +416,204 @@ namespace JantaTechForRetailShop.Controllers
                 db.SaveChanges();
             }
 
-            return RedirectToAction("FinalBillPrint", lastId);
+            return RedirectToAction("FinalBillPrint", lastbill);
         }
 
-        public ActionResult FinalBillPrint()
+        public ActionResult FinalBillPrint(Billing bill)
         {
-            return View();
+            string barcode = bill.Id.ToString();
+            using (MemoryStream memoryStream = new MemoryStream())
+            {
+                using (Bitmap bitMap = new Bitmap(barcode.Length * 40, 100))
+                {
+                    using (Graphics graphics = Graphics.FromImage(bitMap))
+                    {
+                        Font oFont = new Font("IDAutomationHC39M", 16);
+                        Font bFont = new Font(FontFamily.GenericSerif, 8);
+                        PointF point = new PointF(2f, 2f);
+                        //PointF point3 = new PointF(45f, 0.5f);
+                        PointF point2 = new PointF(56f, 76f);
+                        SolidBrush whiteBrush = new SolidBrush(Color.White);
+                        graphics.FillRectangle(whiteBrush, 0, 0, bitMap.Width, bitMap.Height);
+                        SolidBrush blackBrush = new SolidBrush(Color.Black);
+                        graphics.DrawString("*" + barcode + "*", oFont, blackBrush, point);
+
+                    }
+
+                    bitMap.Save(memoryStream, ImageFormat.Jpeg);
+
+                    ViewBag.BarcodeImage = "data:image/png;base64," + Convert.ToBase64String(memoryStream.ToArray());
+                }
+            }
+
+
+
+            //Billing bill = db.Billings.Find(id);
+            Customer customer = new Customer() { };
+            foreach (var item in db.Customers.ToList())
+            {
+                if (item.Id == bill.CustomerId)
+                {
+                    customer = item;
+                    break;
+                }
+            }
+            List<SellingHistory> sellingHistories = new List<SellingHistory>();
+            foreach (var item in db.SellingHistories.ToList())
+            {
+                if (item.BillingId == bill.Id)
+                {
+                    sellingHistories.Add(item);
+                }
+            }
+            List<Product> products = new List<Product>();
+            int sum = 0;
+            foreach (var item in db.Products.ToList())
+            {
+                foreach (var item1 in sellingHistories)
+                {
+                    if (item.Id == item1.ProductId)
+                    {
+                        products.Add(item);
+                        sum = sum + (item1.Quantity) * (item.Price);
+                    }
+                }
+            }
+            ViewBag.TotalPrice = sum;
+            ViewBag.AmountDue = sum - bill.AmountPaid;
+
+            AllClassViewModel viewModel = new AllClassViewModel()
+            {
+                Customer = customer,
+                Billing = bill,
+                Products = products,
+                SellingHistories = sellingHistories
+            };
+            return View(viewModel);
         }
 
+           [Authorize]
+           public ActionResult ProfitandLoss()
+           {
+            return View();
+           }
+
+            [Authorize]
+            public ActionResult BaiKhata(FormCollection form)
+            {
+            string start = Request.Form["StartDate"];
+            string end = Request.Form["EndDate"];
+            DateTime sd = DateTime.ParseExact(start, "dd/MM/yyyy", null);
+            DateTime ed = DateTime.ParseExact(end, "dd/MM/yyyy", null);
+            ProfitLossViewModel profitLoss = new ProfitLossViewModel();
+            List<ProfitLossViewModel> viewModels = new List<ProfitLossViewModel>();
+            int pl = 0;
+            int tpl = 0;
+            int total = 0;
+            int expense =0;
+            int totalexpense = 0;
+            for (DateTime dateA = sd;  dateA<= ed; dateA =dateA.AddDays(1))
+            {
+                foreach (var item in db.SellingHistories.ToList())
+                {
+                    foreach (var item3 in db.Billings.ToList())
+                    {
+                        if (item.BillingId == item3.Id)
+                        {
+                            if (dateA == item3.Date)
+                            {
+                                foreach (var item1 in db.Products.ToList())
+                                {
+                                    if (item1.Id == item.ProductId)
+                                    {
+                                        pl = item.Quantity * (item1.Price - item1.CostPrice);
+                                        tpl = tpl + pl;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                foreach (var item in db.TodayExpenses.ToList())
+                {
+                    if (item.Date == dateA)
+                        expense = item.TodayExpence;
+                }
+                profitLoss = new ProfitLossViewModel();
+                profitLoss.BillDate = dateA;
+                profitLoss.TotalProfit = tpl-expense;
+                totalexpense = totalexpense + expense;
+                viewModels.Add(profitLoss);
+                total = total + tpl;
+                tpl = 0;
+                pl = 0;
+                expense = 0;
+                
+            }
+            ViewBag.total = total-totalexpense;
+            return View(viewModels.ToList());
+            }
+       
+        public ActionResult TotalAmountDueOfClient()
+        {
+            var customers = db.Customers.ToList();
+            var billings = db.Billings.ToList();
+            
+            AllClassViewModel viewModel = new AllClassViewModel
+            {
+                Customers=customers,
+                Billings=billings
+            };
+            return View(viewModel);
+        }
+
+        public ActionResult ViewDueBills(int? id)
+        {
+            Customer customer = db.Customers.Find(id);
+            IList<Billing> bills = new List<Billing>();
+            foreach (var item in db.Billings.ToList())
+            {
+                if (item.CustomerId == customer.Id && item.AmountDue>0)
+                {
+                    bills.Add(item);
+                }
+            }
+            AllClassViewModel viewModel = new AllClassViewModel
+            {
+                Customer = customer,
+                Billings = bills
+            };
+            return View(viewModel);
+        }
+
+        public ActionResult ClearBill(int? id)
+        {
+            Billing bill = db.Billings.Find(id);
+            bill.AmountPaid = bill.AmountPaid + bill.AmountDue;
+            bill.AmountDue = 0;
+            db.Entry(bill).State = EntityState.Modified;
+            db.SaveChanges();
+            Customer customer = db.Customers.Find(bill.CustomerId);
+            return RedirectToAction("ViewDueBills", new { customer.Id });
+        }
+
+      
+         public JsonResult GetSearchValue(string Prefix)
+        {
+            //Note : you can bind same list from database  
+            var customer = db.Customers.ToList();
+            //Searching records from list using LINQ query  
+            var CityList = (from N in customer
+                            where N.PhoneNo.StartsWith(Prefix)
+                            select new { N.PhoneNo });
+            return Json(CityList, JsonRequestBehavior.AllowGet);
+        }
 
     }
 
 }
+
+
+
+ 
+

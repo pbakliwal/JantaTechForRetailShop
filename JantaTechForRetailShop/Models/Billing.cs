@@ -8,6 +8,7 @@ namespace JantaTechForRetailShop.Models
 {
     public class Billing
     {
+       
         public int Id { get; set; }
         public Customer Customer { get; set; }
         public int CustomerId { get; set; }
@@ -19,5 +20,6 @@ namespace JantaTechForRetailShop.Models
         public int AmountPaid { get; set; }
         [Display(Name = "Due Date")]
         public DateTime DueDate { get; set; }
+        public int AmountDue { get; set; }
     }
 }

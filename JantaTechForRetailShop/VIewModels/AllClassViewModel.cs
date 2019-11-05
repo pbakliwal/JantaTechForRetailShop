@@ -14,6 +14,8 @@ namespace JantaTechForRetailShop.VIewModels
         public IEnumerable<Product> Products { get; set; }
         public SellingHistory SellingHistory { get; set; }
         public IEnumerable<SellingHistory> SellingHistories { get; set; }
+        public TodayExpenses TodayExpense { get; set; }
+        public IEnumerable<TodayExpenses> TodayExpenses { get; set; }
         public Billing Billing { get; set; }
         public IEnumerable<Billing> Billings { get; set; }
         public IEnumerable<TempProduct> TempProducts { get; set; }

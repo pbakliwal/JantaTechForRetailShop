@@ -25,6 +25,7 @@ namespace JantaTechForRetailShop.Models
         public DbSet<Billing> Billings { get; set; }
         public DbSet<SellingHistory> SellingHistories { get; set; }
         public DbSet<TempProduct> TempProducts { get; set; }
+        public DbSet<TodayExpenses> TodayExpenses { get; set; }
         public ApplicationDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
         {
@@ -34,5 +35,7 @@ namespace JantaTechForRetailShop.Models
         {
             return new ApplicationDbContext();
         }
+
+    
     }
 }

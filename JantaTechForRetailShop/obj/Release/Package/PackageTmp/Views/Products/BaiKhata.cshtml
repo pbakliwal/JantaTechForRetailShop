@@ -1,0 +1,32 @@
+﻿@model IEnumerable<JantaTechForRetailShop.VIewModels.ProfitLossViewModel>
+@{
+    ViewBag.Title = "BaiKhata";
+}
+
+<h4>Profit Loss</h4>
+
+<div style="margin-top: 5px; margin-bottom:15px">
+    <table class="table table-responsive table-hover table-striped">
+        <tr>
+            <th>Date</th>
+            <th>Profit/Loss</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.BillDate.ToLongDateString()
+                </td>
+                <td>
+                    ₹ @item.TotalProfit
+                </td>
+                
+            </tr>
+        }
+            <tr>
+                <td><strong>TotalProfit</strong></td>
+                <td><strong>₹ @ViewBag.total</strong></td>
+            </tr>
+        
+    </table>
+</div>

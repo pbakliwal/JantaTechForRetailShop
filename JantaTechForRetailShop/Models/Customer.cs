@@ -17,5 +17,6 @@ namespace JantaTechForRetailShop.Models
         public string PhoneNo { get; set; }
         [Display(Name = "Customer Address")]
         public string Address { get; set; }
+        //public int AmountDue { get; set; }
     }
 }

@@ -1,0 +1,160 @@
+﻿@model JantaTechForRetailShop.VIewModels.AllClassViewModel
+@{
+    ViewBag.Title = "FinalBIll";
+}
+    <head>
+        <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+        <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+        <style>
+            .invoice-title h2, .invoice-title h3 {
+                display: inline-block;
+            }
+
+            .table > tbody > tr > .no-line {
+                border-top: none;
+            }
+
+            .table > thead > tr > .no-line {
+                border-bottom: none;
+            }
+
+            .table > tbody > tr > .thick-line {
+                border-top: 2px solid;
+            }
+
+            
+        </style>
+        
+
+    </head>
+
+<!------ Include the above in your HEAD tag ---------->
+    <header>
+        <center><img src="~/Images/VmenFrontWithputFAFA.PNG" /></center>
+        
+    </header>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="invoice-title">
+                    <img src="~/Images/fafav.PNG" /><h4 style=" font-weight:bold" class="pull-right">Bill No.  # @Model.Billing.Id <br /><img src="@ViewBag.BarcodeImage" alt="" /></h4><br />
+                    <h6 style=" font-weight:bold">GSTIN: 23DARPP7677G1ZZ</h6>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-xs-6">
+                        <address>
+                            <strong>Customer Name: @Model.Customer.Name</strong><br>
+                            <strong>Contact Number: @Model.Customer.PhoneNo</strong><br>
+                        </address>
+                    </div>
+                    <div class="col-xs-6 text-right">
+                        <address>
+                            <strong>Order Date:</strong><br>
+                            @Model.Billing.Date.ToLongDateString()<br><br>
+                        </address>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title"><strong>Order summary</strong></h3>
+                    </div>
+                    <div class="panel-body">
+                        <div class="table-responsive">
+                            <table class="table table-condensed">
+                                <thead>
+                                    <tr>
+                                        <td><strong>Item</strong></td>
+                                        <td class="text-center"><strong>Price</strong></td>
+                                        <td class="text-center"><strong>Quantity</strong></td>
+                                        <td class="text-right"><strong>Totals</strong></td>
+                                    </tr>
+                                </thead>
+                                <tbody>
+
+                                    @{
+                                        int totSum = 0;
+                                        int sum = 0;
+                                        foreach (var item in Model.SellingHistories)
+                                        {
+                                            <tr>
+                                                @foreach (var item1 in Model.Products)
+                                                {
+                                                    if (item1.Id == item.ProductId)
+                                                    {
+                                                        <td>@item1.Category (@item1.Brand)</td>
+                                                        <td class="text-center">@item1.Price</td>
+                                                        <td class="text-center">@item.Quantity</td>
+                                                        <td class="text-right">
+                                                            @{
+
+                                                                for (int i = 0; i < item.Quantity; i++)
+                                                                {
+                                                                    sum = sum + item1.Price;
+                                                                }
+                                                            }@sum
+                                                        </td>
+                                                    }
+                                                }
+                                            </tr>
+                                            totSum = totSum + sum;
+                                            sum = 0;
+                                        }
+                                    }
+
+                                    <tr>
+                                        <td class="thick-line"></td>
+                                        <td class="thick-line"></td>
+                                        <td class="thick-line text-center"><strong>Total</strong></td>
+                                        <td class="thick-line text-right">₹ @totSum</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="no-line"></td>
+                                        <td class="no-line"></td>
+                                        <td class="no-line text-center"><strong>Amount Paid</strong></td>
+                                        <td class="no-line text-right">₹ @Model.Billing.AmountPaid</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="no-line"></td>
+                                        <td class="no-line"></td>
+                                        <td class="no-line text-center"><strong>Amount Due</strong></td>
+                                        <td class="no-line text-right">₹ @Model.Billing.AmountDue</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <br />
+            <br />
+            <br />
+            <p style="float: right;">
+                <strong>
+                    Authorized Signature
+                </strong>
+            </p>
+
+        </div>
+        <br />
+        <br />
+        <footer>
+            <center>
+                <h5>
+                    *No Return*      * Exchange Within 7 Days*
+                </h5>
+
+            </center>
+
+        </footer>
+    </div>
+
